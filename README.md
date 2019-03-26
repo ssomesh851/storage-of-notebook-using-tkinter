@@ -1,2 +1,2 @@
-# storage-of-notebook-using-tkinter
--
+# storage-displaying-of-notebook-using-tkinter
+python, mysql
